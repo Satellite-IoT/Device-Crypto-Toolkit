@@ -1,0 +1,16 @@
+{
+  "name": "device-crypto-toolkit",
+  "version": "1.0.0",
+  "description": "A toolkit for generating key pairs and signatures for device authentication",
+  "main": "crypto-script.js",
+  "scripts": {
+    "start": "node crypto-script.js"
+  },
+  "keywords": [
+    "crypto",
+    "device",
+    "authentication",
+    "signature"
+  ],
+  "license": "MIT"
+}
