@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A toolkit for generating key pairs and signatures for device authentication",
   "main": "crypto-script.js",
+  "type": "module",
   "scripts": {
     "start": "node crypto-script.js"
   },

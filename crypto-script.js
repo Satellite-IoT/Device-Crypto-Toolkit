@@ -1,5 +1,5 @@
-const crypto = require('crypto');
-const readline = require('readline');
+import crypto from 'crypto';
+import readline from 'readline';
 
 function generateKeyPair() {
   const { publicKey, privateKey } = crypto.generateKeyPairSync('ed25519');
